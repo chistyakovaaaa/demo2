@@ -1,0 +1,7 @@
+# no.log files
+*.db
+*.log
+
+# ignore all files in the build/ directory
+target/
+bin/
